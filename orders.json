@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "price": 10.99,
+      "name": "Pasta Carbonara",
+      "description": "Delicious Italian pasta with creamy carbonara sauce."
+    },
+    {
+      "id": 2,
+      "price": 8.49,
+      "name": "Chicken Burger",
+      "description": "Juicy chicken patty served in a soft bun with lettuce and mayo."
+    },
+    {
+      "id": 3,
+      "price": 6.99,
+      "name": "Margherita Pizza",
+      "description": "Classic pizza topped with tomato sauce, mozzarella, and fresh basil."
+    },
+    {
+      "id": 4,
+      "price": 12.99,
+      "name": "Grilled Salmon",
+      "description": "Freshly grilled salmon served with steamed vegetables."
+    },
+    {
+      "id": 5,
+      "price": 5.49,
+      "name": "French Fries",
+      "description": "Crispy and golden fries served with ketchup."
+    },
+    {
+      "id": 6,
+      "price": 9.99,
+      "name": "Caesar Salad",
+      "description": "Romaine lettuce, croutons, parmesan cheese, and Caesar dressing."
+    },
+    {
+      "id": 7,
+      "price": 11.49,
+      "name": "Sushi Platter",
+      "description": "Assorted sushi rolls including salmon, tuna, and California rolls."
+    },
+    {
+      "id": 8,
+      "price": 7.99,
+      "name": "Tomato Soup",
+      "description": "Comforting tomato soup served with a side of garlic bread."
+    },
+    {
+      "id": 9,
+      "price": 13.99,
+      "name": "T-Bone Steak",
+      "description": "Juicy T-bone steak cooked to perfection and served with mashed potatoes."
+    },
+    {
+      "id": 10,
+      "price": 4.49,
+      "name": "Mango Smoothie",
+      "description": "Refreshing mango smoothie made with fresh mango and yogurt."
+    },
+    {
+      "id": 11,
+      "price": 8.99,
+      "name": "Vegetarian Wrap",
+      "description": "Wrap filled with grilled vegetables, hummus, and greens."
+    },
+    {
+      "id": 12,
+      "price": 3.99,
+      "name": "Garlic Bread",
+      "description": "Crusty bread topped with garlic butter and parsley."
+    },
+    {
+      "id": 13,
+      "price": 15.99,
+      "name": "Lobster Roll",
+      "description": "Delectable lobster meat served in a toasted roll with butter."
+    },
+    {
+      "id": 14,
+      "price": 6.49,
+      "name": "Onion Rings",
+      "description": "Crispy onion rings served with a tangy dipping sauce."
+    },
+    {
+      "id": 15,
+      "price": 10.49,
+      "name": "Chicken Alfredo",
+      "description": "Creamy alfredo sauce tossed with tender chicken and fettuccine pasta."
+    },
+    {
+      "id": 16,
+      "price": 4.99,
+      "name": "Strawberry Lemonade",
+      "description": "Refreshing lemonade with fresh strawberries and a hint of mint."
+    },
+    {
+      "id": 17,
+      "price": 9.49,
+      "name": "BBQ Ribs",
+      "description": "Finger-licking BBQ ribs served with coleslaw and cornbread."
+    },
+    {
+      "id": 18,
+      "price": 7.49,
+      "name": "Greek Salad",
+      "description": "Healthy Greek salad with tomatoes, cucumbers, olives, and feta cheese."
+    },
+    {
+      "id": 19,
+      "price": 11.99,
+      "name": "Shrimp Scampi",
+      "description": "Garlic butter shrimp served over a bed of linguine pasta."
+    },
+    {
+      "id": 20,
+      "price": 5.99,
+      "name": "Cheese Quesadilla",
+      "description": "Cheesy quesadilla served with salsa and sour cream."
+    }
+  ]
+  
